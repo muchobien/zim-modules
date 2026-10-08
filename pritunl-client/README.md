@@ -1,4 +1,4 @@
-# zim-pritunl-client
+# pritunl-client
 
 [zim module](https://github.com/zimfw/zimfw) for [pritunl-client](https://client.pritunl.com),
 the Pritunl client's command line tool
@@ -13,7 +13,7 @@ the Pritunl client's command line tool
 Add it to `~/.zimrc`, then run `zimfw install`:
 
 ```zsh
-zmodule muchobien/zim-pritunl-client
+zmodule muchobien/zim-modules --root pritunl-client
 ```
 
 The Pritunl app ships `pritunl-client` inside its bundle and doesn't put it on

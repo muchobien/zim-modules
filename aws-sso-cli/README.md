@@ -1,4 +1,4 @@
-# zim-aws-sso-cli
+# aws-sso-cli
 
 [zim module](https://github.com/zimfw/zimfw) for [aws-sso](https://synfinatic.github.io/aws-sso-cli)
 
@@ -14,10 +14,10 @@
 ## Install
 
 Add it to `~/.zimrc` after the module that puts `aws-sso` on your `PATH` (e.g.
-`zim-mise`), then run `zimfw install`:
+`mise` from this repo), then run `zimfw install`:
 
 ```zsh
-zmodule muchobien/zim-aws-sso-cli
+zmodule muchobien/zim-modules --root aws-sso-cli
 ```
 
 Needs aws-sso 2 (`setup completions --source`). Installed through mise or asdf
