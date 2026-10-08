@@ -1,0 +1,4 @@
+*.zwc
+*.zwc.old
+zoxide.zsh
+zoxide-init.zsh
