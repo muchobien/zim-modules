@@ -4,6 +4,7 @@
 
 | Module | For |
 |---|---|
+| [`atuin`](atuin) | [atuin](https://atuin.sh) |
 | [`aws-sso-cli`](aws-sso-cli) | [aws-sso](https://synfinatic.github.io/aws-sso-cli) |
 | [`bun`](bun) | [bun](https://bun.sh) |
 | [`deno`](deno) | [deno](https://deno.com) |
