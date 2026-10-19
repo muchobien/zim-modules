@@ -1,0 +1,8 @@
+#compdef tmp
+
+_arguments \
+  '(- *)--last[Enter the most recently created temporary directory]' \
+  '(- *)--list[List temporary directories, newest first]' \
+  '(- *)--delete[Delete the current temporary workspace after confirmation]' \
+  '(- *)--clean[Delete all temporary directories after confirmation]' \
+  '(- *)--help[Show usage]'
