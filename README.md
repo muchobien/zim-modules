@@ -11,6 +11,7 @@
 | [`fnm`](fnm) | [fnm](https://github.com/Schniz/fnm) |
 | [`mise`](mise) | [mise](https://mise.jdx.dev) |
 | [`pritunl-client`](pritunl-client) | [pritunl-client](https://client.pritunl.com) |
+| [`pwm`](pwm) | [pwm](https://git.krosf.com/krosf/pwm) |
 | [`tmp`](tmp) | Temporary workspaces |
 | [`zoxide`](zoxide) | [zoxide](https://github.com/ajeetdsouza/zoxide) |
 
