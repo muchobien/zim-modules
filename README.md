@@ -9,6 +9,7 @@
 | [`bun`](bun) | [bun](https://bun.sh) |
 | [`deno`](deno) | [deno](https://deno.com) |
 | [`fnm`](fnm) | [fnm](https://github.com/Schniz/fnm) |
+| [`lyra`](lyra) | [lyra](https://github.com/muchobien/lyra) |
 | [`mise`](mise) | [mise](https://mise.jdx.dev) |
 | [`pritunl-client`](pritunl-client) | [pritunl-client](https://client.pritunl.com) |
 | [`pwm`](pwm) | [pwm](https://git.krosf.com/krosf/pwm) |
